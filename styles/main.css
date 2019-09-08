@@ -1,0 +1,18 @@
+.btn-gradient {
+	text-align: center;
+	height: 45px;
+	width: 120px;
+	border-radius: 10px;
+	background: linear-gradient(to top, #E0FFFF, #00FF7F);
+		
+	
+}
+
+.btn-gradient:hover {
+	background: radial-gradient(40% 10%, #FAECD5, #FF1493);
+	
+}
+	
+	
+	
+	
